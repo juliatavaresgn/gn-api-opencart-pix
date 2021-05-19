@@ -79,3 +79,6 @@ Nesta aba, as seguintes propriedades podem ser configuradas:
 ### Status do Pedido
 
 Nesta aba é realizada a configuração dos Status de pagamento da Gerencianet com os Status de pagamento de sua loja. Assim, quando houver a alteração do status do pagamento na Gerencianet,  o status do pedido em sua loja será atualizado automaticamente de acordo com as configurações definidas.
+
+
+cisacçOS
